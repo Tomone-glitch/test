@@ -1,0 +1,20 @@
+# Windows
+Thumbs.db
+Desktop.ini
+*.lnk
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temp
+*.tmp
+*.temp
+*.log
+
+# Env
+.env
+.env.*
